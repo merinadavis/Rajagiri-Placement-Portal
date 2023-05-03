@@ -1,4 +1,4 @@
- <img src="assets/img/scs-logo-1.png" height=70px" style="height:70px" />
+ <!-- <img src="assets/img/scs-logo-1.png" height=70px" style="height:70px" /> -->
  <header id=" header" class="header fixed-top" data-scrollto-offset="0">
      <div class="container-fluid d-flex align-items-center justify-content-between">
 
@@ -44,7 +44,7 @@
              <i class="bi bi-list mobile-nav-toggle d-none"></i>
          </nav><!-- .navbar -->
 
-         <a class="btn-getstarted scrollto" href="faq.php">FAQ</a>
+         <!-- <a class="btn-getstarted scrollto" href="faq.php">FAQ</a> -->
 
      </div>
  </header>
