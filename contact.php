@@ -60,13 +60,13 @@
 
             <div class="section-header">
                 <h2><strong>Contact Us</strong></h2>
-                <p>School of Computer Science and I.T, Davv, Indore.</p>
+                <p>Rajagiri School of Engineering and Technology, Kakkanad.</p>
             </div>
 
         </div>
 
         <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3681.035781097398!2d75.87103241476291!3d22.689711885122687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fce62a06c98b%3A0x9df2fc5c91f45eb5!2sSCSIT%20-%20School%20of%20Computer%20Science%20%26%20Information%20Technology%2C%20DAVV!5e0!3m2!1sen!2sin!4v1648416719389!5m2!1sen!2sin" frameborder="0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.290069646161!2d76.35597307450844!3d9.99288087315824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080ca6b98ae0f7%3A0xc81786bb40617774!2sRajagiri%20School%20of%20Engineering%20%26%20Technology!5e0!3m2!1sen!2sin!4v1683097151749!5m2!1sen!2sin" frameborder="0" allowfullscreen></iframe>
         </div><!-- End Google Maps -->
 
         <div class="container">
@@ -77,13 +77,13 @@
 
                     <div class="info">
                         <h3>Get in touch</h3>
-                        <p>PlACEMENT CELL</p>
+                        <p>RAJAGIRI PLACEMENT CELL</p>
 
                         <div class="info-item d-flex">
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
                                 <h4>Location:</h4>
-                                <p>SCSIT, DAVV, Takshashila campus, Khandwa Road, Indore.</p>
+                                <p>Rajagiri School of Engineering and Technology, Kakkanad.</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -91,7 +91,7 @@
                             <i class="bi bi-envelope flex-shrink-0"></i>
                             <div>
                                 <h4>Email:</h4>
-                                <p>scsdavvindore@gmail.com</p>
+                                <p>rajagirischool@gmail.com</p>
                             </div>
                         </div><!-- End Info Item -->
 

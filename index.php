@@ -34,7 +34,7 @@ require_once("db.php");
     <section id="hero-animated" class="hero-animated d-flex align-items-center">
         <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out">
             <img src="assets/img/hero-carousel/hero-carousel-1.svg" class="img-fluid animated">
-            <h2>Welcome to <span>Placement Cell</span></h2>
+            <h2>Welcome to <span>Rajagiri Placement Cell</span></h2>
             <p>We Will Support You In Your Entire Placement Journey.</p>
             <div class="d-flex">
                 <a href="login.php" class="btn-get-started scrollto">Get Started</a>
