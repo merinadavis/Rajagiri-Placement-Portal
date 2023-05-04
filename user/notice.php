@@ -130,12 +130,11 @@ require_once("../db.php");
     </div>
     <!-- /.content-wrapper -->
 
-    <footer class="main-footer" style="margin-left: 0px;">
+    <!-- <footer class="main-footer" style="margin-left: 0px;">
         <div class="text-center">
-            <strong>Copyright &copy; 2022 <a href="#">Placement Portal</a>.</strong> All rights
-            reserved.
+            <strong> &copy; 2022 <a href="#">Placement Portal</a>.</strong>
         </div>
-    </footer>
+    </footer> -->
 
 </body>
 

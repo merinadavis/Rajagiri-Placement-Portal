@@ -239,9 +239,9 @@ require_once("db.php");
                                     </div>
                                 </div>
                                 <!-- ./col -->
-                                <div class="col-lg-3 col-xs-6">
+                                <!-- <div class="col-lg-3 col-xs-6">
                                     <!-- small box -->
-                                    <div class="small-box bg-yellow">
+                                    <!-- <div class="small-box bg-yellow">
                                         <div class="inner">
                                             <?php
                                             $sql = "SELECT * FROM users WHERE resume!=''";
@@ -262,11 +262,11 @@ require_once("db.php");
                                             <i class="ion ion-ios-list"></i>
                                         </div>
                                     </div>
-                                </div>
+                                </div> --> -->
                                 <!-- ./col -->
-                                <div class="col-lg-3 col-xs-6">
+                                <!--  --><div class="col-lg-3 col-xs-6">
                                     <!-- small box -->
-                                    <div class="small-box bg-red">
+                                    <!-- <div class="small-box bg-red">
                                         <div class="inner">
                                             <?php
                                             $sql = "SELECT * FROM users WHERE active='1'";
@@ -287,7 +287,7 @@ require_once("db.php");
                                             <i class="ion ion-person-stalker"></i>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- ./col -->
                             </div>
                         </div>
