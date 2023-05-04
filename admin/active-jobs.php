@@ -163,12 +163,12 @@ require_once("../db.php");
     </div>
     <!-- /.content-wrapper -->
 
-    <footer class="main-footer" style="margin-left: 0px;">
+    <!-- <footer class="main-footer" style="margin-left: 0px;">
       <div class="text-center">
         <strong>Copyright &copy; 2022 <a href="learningfromscratch.online">Placement Portal</a>.</strong> All rights
         reserved.
       </div>
-    </footer>
+    </footer> -->
 
     <!-- /.control-sidebar -->
     <!-- Add the sidebar's background. This div must be placed

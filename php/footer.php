@@ -6,21 +6,17 @@
         <div class="container d-flex flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center">
 
             <div class="d-flex flex-column align-items-center align-items-lg-start">
-                <div class="copyright">
+                <!-- <div class="copyright">
                     &copy; Copyright <strong><span>Davv</span></strong>. All Rights Reserved
-                </div>
+                </div> -->
                 <div class="credits">
 
-                    <a href="https://bootstrapmade.com/">SCSIT-PlacementCell</a>
+                    <a href="https://bootstrapmade.com/">Rajagiri-PlacementCell</a>
                 </div>
             </div>
 
             <div class="social-links order-first order-lg-last mb-3 mb-lg-0">
-                <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                
             </div>
 
         </div>

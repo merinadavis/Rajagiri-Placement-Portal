@@ -239,9 +239,9 @@ require_once("db.php");
                                     </div>
                                 </div>
                                 <!-- ./col -->
-                                <div class="col-lg-3 col-xs-6">
+                                <!-- <div class="col-lg-3 col-xs-6">
                                     <!-- small box -->
-                                    <div class="small-box bg-yellow">
+                                    <!-- <div class="small-box bg-yellow">
                                         <div class="inner">
                                             <?php
                                             $sql = "SELECT * FROM users WHERE resume!=''";
@@ -262,11 +262,11 @@ require_once("db.php");
                                             <i class="ion ion-ios-list"></i>
                                         </div>
                                     </div>
-                                </div>
+                                </div> --> -->
                                 <!-- ./col -->
-                                <div class="col-lg-3 col-xs-6">
+                                <!--  --><div class="col-lg-3 col-xs-6">
                                     <!-- small box -->
-                                    <div class="small-box bg-red">
+                                    <!-- <div class="small-box bg-red">
                                         <div class="inner">
                                             <?php
                                             $sql = "SELECT * FROM users WHERE active='1'";
@@ -287,7 +287,7 @@ require_once("db.php");
                                             <i class="ion ion-person-stalker"></i>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- ./col -->
                             </div>
                         </div>
@@ -308,7 +308,7 @@ require_once("db.php");
 
     <!-- TPO bot -->
 
-    <a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
+    <!-- <a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
 
     <button class="open-button is-size-5" onclick="openForm()" style="color:#6900FF !important;"><strong><i class="fas fa-comment-alt"></i> Chat</strong></button>
 
@@ -321,18 +321,18 @@ require_once("db.php");
         </form>
     </div>
 
-    </div>
+    </div> -->
 
     <!-- JS FILES -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.js'></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
     <script src="{% static 'js/tabs.js' %}"></script>
     <style>
 
     </style>
-    <script>
-        // ===== Scroll to Top ==== 
+    <script> -->
+        <!-- // ===== Scroll to Top ==== 
         $(window).scroll(function() {
             if ($(this).scrollTop() >= 50) { // If page is scrolled more than 50px
                 $('#return-to-top').fadeIn(200); // Fade in the arrow
@@ -366,7 +366,7 @@ require_once("db.php");
     </script>
     <script src="assets/js/main1.js"></script>
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-    <script src="assets/js/counter.js"></script>
+    <script src="assets/js/counter.js"></script> -->
 
 
 
