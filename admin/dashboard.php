@@ -199,8 +199,7 @@ require_once("../db.php");
 
     <!-- <footer class="main-footer" style="margin-left: 0px;">
       <div class="text-center">
-        <strong>Copyright &copy; 2022 <a href="learningfromscratch.online">Placement Portal</a>.</strong> All rights
-        reserved.
+        <strong>Rajagiri Placement Portal</strong>
       </div>
     </footer> -->
 
