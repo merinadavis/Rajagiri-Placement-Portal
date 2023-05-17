@@ -237,14 +237,14 @@ if (isset($_POST['submit'])) {
     </div>
 
 
-    <footer class="main-footer" style="margin:auto;margin-bottom: 0px; padding:15px;
+    <!-- <footer class="main-footer" style="margin:auto;margin-bottom: 0px; padding:15px;
   width: 100%;
   height: 50px; position:absolute; background-color:#1f0a0a; color:white">
         <div class="text-center">
             <strong>Copyright &copy; 2022 Placement Portal</strong> All rights
             reserved.
         </div>
-    </footer>
+    </footer> -->
 
 </body>
 

@@ -197,11 +197,11 @@ require_once("../db.php");
     </div>
     <!-- /.content-wrapper -->
 
-    <footer class="main-footer" style="margin-left: 0px;">
+    <!-- <footer class="main-footer" style="margin-left: 0px;">
       <div class="text-center">
         <strong>Rajagiri Placement Portal</strong>
       </div>
-    </footer>
+    </footer> -->
 
     <!-- /.control-sidebar -->
     <!-- Add the sidebar's background. This div must be placed

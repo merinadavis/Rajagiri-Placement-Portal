@@ -156,14 +156,14 @@ require_once("../db.php");
     </div>
     <!-- /.content-wrapper -->
 
-    <footer class="main-footer" style="margin:auto;bottom: 0;
+    <!-- <footer class="main-footer" style="margin:auto;bottom: 0;
   width: 100%;
   height: 50px; position:absolute; background-color:#1f0a0a; color:white">
         <div class="text-center">
             <strong>Copyright &copy; 2022 Placement Portal</strong> All rights
             reserved.
         </div>
-    </footer>
+    </footer> -->
 
     <!-- /.control-sidebar -->
     <!-- Add the sidebar's background. This div must be placed

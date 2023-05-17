@@ -60,7 +60,9 @@
 
             <div class="section-header">
                 <h2><strong>Contact Us</strong></h2>
+
                 <p>Rajagiri School of Engineering and Technology, Kakkanad.</p>
+
             </div>
 
         </div>
@@ -83,7 +85,9 @@
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
                                 <h4>Location:</h4>
+
                                 <p>Rajagiri School of Engineering and Technology, Kakkanad.</p>
+
                             </div>
                         </div><!-- End Info Item -->
 
@@ -91,8 +95,9 @@
                             <i class="bi bi-envelope flex-shrink-0"></i>
                             <div>
                                 <h4>Email:</h4>
+
                                 <p>rajagirischool@gmail.com</p>
-                            </div>
+             </div>
                         </div><!-- End Info Item -->
 
                         <div class="info-item d-flex">
