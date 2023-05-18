@@ -12,11 +12,11 @@ if ($result->num_rows>0)
 {
 while ($result->fetch_assoc()){
 
-echo "echo $row['Name'];
+echo "echo $row['Name']";
 }
 
 
 }
 
 
-?> // closing php tags
+?>

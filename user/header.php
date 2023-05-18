@@ -7,6 +7,9 @@
                 <a href="index.php" class="nav-link">Dashboard</a>
             </li>
             <li class="nav-item">
+                <a href="https://coding-machine.pages.dev/" class="nav-link">Coding IDE</a>
+            </li>
+            <li class="nav-item">
                 <a href="resume.php" class="nav-link">Create Resume</a>
             </li>
             <li class="nav-item">
@@ -138,7 +141,7 @@
 
     }
 
-    // Inside the Media Query.
+    //inside media query
 
     .hamburger.active .bar:nth-child(2) {
         opacity: 0;
