@@ -10,6 +10,9 @@
                 <a href="https://coding-machine.pages.dev/" class="nav-link">Coding IDE</a>
             </li>
             <li class="nav-item">
+                <a href="http://127.0.0.1:5500/quiz.html" class="nav-link">Quiz</a>
+            </li>
+            <li class="nav-item">
                 <a href="resume.php" class="nav-link">Create Resume</a>
             </li>
             <li class="nav-item">
