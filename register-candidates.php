@@ -58,11 +58,11 @@ if (isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
                   <input class="form-control input-lg" type="text" id="email" name="email" placeholder="Email *" required>
                 </div>
                 <div class="form-group">
-                  <textarea class="form-control input-lg" rows="4" id="aboutme" name="aboutme" placeholder="Brief intro about yourself *" required></textarea>
+                  <textarea class="form-control input-lg" rows="4" id="aboutme" name="aboutme" placeholder="Brief intro about yourself"></textarea>
                 </div>
                 <div class="form-group">
                   <label>Date Of Birth</label>
-                  <input class="form-control input-lg" type="date" id="dob" min="1960-01-01" max="1999-01-31" name="dob" placeholder="Date Of Birth">
+                  <input class="form-control input-lg" type="date" id="dob" min="1999-01-01" max="2023-01-31" name="dob" placeholder="Date Of Birth">
                 </div>
                 <div class="form-group">
                   <input class="form-control input-lg" type="text" id="age" name="age" placeholder="Age" readonly>
@@ -134,7 +134,7 @@ if (isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
 
                 <div class="form-group">
                   <label style="color: red;">File Format PDF Only!</label>
-                  <input type="file" name="resume" class="btn btn-flat btn-danger" required>
+                  <input type="file" name="resume" class="btn btn-flat btn-danger">
                 </div>
               </div>
             </form>
@@ -150,8 +150,7 @@ if (isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
 
     <footer class="main-footer" style="margin-left: 0px;">
       <div class="text-center">
-        <strong>Copyright &copy; 2022 <a href="learningfromscratch.online">Placement Portal</a>.</strong> All rights
-        reserved.
+        <strong><a href="learningfromscratch.online">Placement Portal</a>.</strong>
       </div>
     </footer>
 
